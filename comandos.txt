@@ -1,0 +1,9 @@
+criar repositorio git || gitbucket
+# git init 									/* inicializa o git */
+# git status 								/* verificar status */
+# git add .									/* add todos os arquivos */
+# git remote set-url origin git@github.com 	/* set a origin do repositorio */
+# git remote add origin https://github.com 	/* set a origin de outra forma */
+# git commit -a -m " commit " 				/* comenta o cod */
+# git push origin master 					/* faz o upload dos arquivos para o repositorio git */
+# git pull 									/* att um repositorio que foi at */
